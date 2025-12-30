@@ -1,8 +1,8 @@
 ## 프로젝트 소개
 
 ---
+<img width="1338" height="583" alt="image" src="https://github.com/user-attachments/assets/3d82c24a-eac4-495f-9167-8b4e43b6373d" />
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d85fd78d-de88-4966-9b27-62e3e2e8c2a0/eefc5b89-8ea4-47b3-b8b9-5118ce8cae56/image.png)
 
 FITinside는 LF몰, 무신사와 같은 온라인 쇼핑몰을 모티브로 한 웹사이트입니다.
 
